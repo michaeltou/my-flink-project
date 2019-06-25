@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Class-Path: akka-protobuf_2.11-2.4.20.jar akka-actor_2.11-2.4.20.jar c
+ ommons-cli-1.3.1.jar commons-compress-1.4.1.jar flink-shaded-guava-18
+ .0-4.0.jar flink-shaded-asm-5.0.4-4.0.jar flink-queryable-state-clien
+ t-java_2.11-1.6.1.jar flink-shaded-jackson-2.7.9-4.0.jar snappy-java-
+ 1.1.4.jar flink-runtime_2.11-1.6.1.jar slf4j-log4j12-1.7.7.jar flink-
+ hadoop-fs-1.6.1.jar flink-streaming-java_2.11-1.6.1.jar kryo-2.24.0.j
+ ar jsr305-1.3.9.jar commons-io-2.4.jar minlog-1.2.jar ssl-config-core
+ _2.11-0.2.1.jar flink-metrics-core-1.6.1.jar force-shading-1.6.1.jar 
+ chill-java-0.7.4.jar log4j-1.2.17.jar xz-1.0.jar akka-stream_2.11-2.4
+ .20.jar objenesis-2.1.jar flink-optimizer_2.11-1.6.1.jar reactive-str
+ eams-1.0.0.jar slf4j-api-1.7.7.jar flink-java-1.6.1.jar akka-slf4j_2.
+ 11-2.4.20.jar config-1.3.0.jar scala-parser-combinators_2.11-1.0.4.ja
+ r chill_2.11-0.7.4.jar flink-annotations-1.6.1.jar commons-collection
+ s-3.2.2.jar javassist-3.19.0-GA.jar flink-core-1.6.1.jar scala-librar
+ y-2.11.12.jar flink-shaded-netty-4.1.24.Final-4.0.jar scopt_2.11-3.5.
+ 0.jar commons-lang3-3.3.2.jar grizzled-slf4j_2.11-1.0.2.jar commons-m
+ ath3-3.5.jar flink-clients_2.11-1.6.1.jar scala-java8-compat_2.11-0.7
+ .0.jar
+Main-Class: myflink.StreamingJob
+
